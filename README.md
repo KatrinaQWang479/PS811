@@ -13,4 +13,8 @@
 * This is built for the course `PS811: Introduction to Statistical Computing`.
 
 ## Excercise 1: Setup (09/17/2021)
-* 
+* I have downloaded a)R, b)Rstudio, c)LaTeX, d)Zotero.
+* I have applied fora GirHub Pro account.
+
+## Acknowledgement
+* Our Instructor: [@Dillon Laaker](dillionlaaker.org)
