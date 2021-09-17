@@ -7,10 +7,10 @@
 
 ## If You Have Any Questions...
 * Email: [QWANG479 at WISC.EDU](qwang479@wisc.edu)
-* Twitter: [@Katrina Q. Wang](https://twitter.com/KatrinaQWang2)
+* Twitter: [\@ Katrina Q. Wang](https://twitter.com/KatrinaQWang2)
 
 ## What Is This Repository For?
 * This is built for the course `PS811: Introduction to Statistical Computing`.
 
 ## Acknowledgement
-* Our Instructor: [@Dillon Laaker](dillonlaaker.org)
+* Our Instructor: Dillon Laaker
