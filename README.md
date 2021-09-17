@@ -6,7 +6,7 @@
 * I am interested in `how external and internal hiring influenced captains' performances in the Dutch East India Company between 1700 and 1795`.
 
 ## If You Have Any Questions...
-* Email: qwang479@wisc.edu
+* Email: [QWANG479 at WISC.EDU](qwang479@wisc.edu)
 * Twitter: [@Katrina Q. Wang](https://twitter.com/KatrinaQWang2)
 
 ## What Is This Repository For?
