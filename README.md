@@ -13,4 +13,4 @@
 * This is built for the course `PS811: Introduction to Statistical Computing`.
 
 ## Acknowledgement
-* Our Instructor: [@Dillon Laaker](dillionlaaker.org)
+* Our Instructor: [@Dillon Laaker](dillonlaaker.org)
