@@ -5,17 +5,15 @@ title: Katrina Q. Wang's CV
 # Katrina Q. Wang
 Ph.D. Student, Department of Sociology, University of Wisconsin-Madison
 
-<div id="webaddress">
-<a href="qwang479@wisc.edu">qwang479@wisc.edu</a>
-| <a href="https://twitter.com/KatrinaQWang2">Twitter: @ Katrina Q. Wang</a>
-</div>
-
-
 ## Contact Information
+
+- Email: [QWANG479 at WISC.EDU](qwang479@wisc.edu)
 
 - Office Address: 7102C William H. Sewell Social Science Building, 1180 Observatory Drive, Madison, WI 53706
 
 - Phone Number: (608)977-4518
+
+- Twitter: [\@ Katrina Q. Wang](https://twitter.com/KatrinaQWang2)
 
 ## Research Interests
 
