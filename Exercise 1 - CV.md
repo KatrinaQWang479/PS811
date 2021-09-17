@@ -69,7 +69,7 @@ __Department of History and National School of Development, Peking University__
 
 `2021` Graduate Fellowship granted by University of Wisconsin-Madison
 
-`2021` Scholarship ($5000) granted by Institute for Regional and International Studies at University of Wisconsin-Madison
+`2021` Scholarship ($5,000) granted by Institute for Regional and International Studies at University of Wisconsin-Madison
 
 ## Service/volunteer work
 
