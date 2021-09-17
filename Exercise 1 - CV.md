@@ -83,7 +83,7 @@ NA.
 
 - Chinese (native), English
 - Stata, LaTeX
-- Theatrical Performances
+- Theatrical Performance
 
 ## References
 
