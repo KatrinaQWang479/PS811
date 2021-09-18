@@ -1,6 +1,5 @@
 ---
 title: "Katrina Q. Wang"
-author: "Ph.D. Student, Department of Sociology, University of Wisconsin-Madison"
 date: "9/17/2021"
 output: pdf_document
 ---
