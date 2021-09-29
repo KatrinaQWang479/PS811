@@ -1,0 +1,59 @@
+---
+name: Katrina (Katie)
+surname: Wang
+position: "Ph.D. Student"
+address: "Department of Sociology, University of Wisconsin-Madison"
+phone: +1 608 977 4518
+www: sociology.wisc.edu/staff/wang-katie/
+email: "QYWANG479 at WISC.EDU"
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::hyndman
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
+library(vitae)
+```
+
+# Some stuff about me
+
+ * My name is Katrina Q. Wang, a Ph.D. Student in Sociology at University of Wisconsin-Madison.
+ * I am 3/4 Han and 1/4 Manchu, a Beijing native.
+ * I am interested in how external and internal hiring influenced captains' performances in the Dutch East India Company between 1700 and 1795.
+
+# Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Ph.D. Student in Sociology", "2021 - now", "University of Wisconsin-Madison", "Wisconsin, U.S.",
+  "M.S. in Economics", "2018 - 2021", "Peking University", "Beijing, China",
+  "B.A. in History and Economics", "2014 - 2018", "Peking University", "Beijing, China"
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Teaching Experience
+
+```{r}
+library(tibble)
+tribble(
+  ~Type, ~Year, ~Desc,
+  "Development Economics", "2019 Fall", "Undergraduate Level",
+  "Organization Theory", "2020 Spring","Ph.D. Level",
+  "Strategic Human Resource Management/People Analytics", "2020 Spring","MBA Level",
+  "Introduction to Politics","2020 Fall", "Undergraduate Level",
+   "Organization Theory","2021 Spring","Ph.D. Level"
+) %>% 
+detailed_entries(Type,Year, Desc)
+  
+```
+
+# Publications
+
+NA.
